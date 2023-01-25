@@ -1,0 +1,3 @@
+# CLI tools
+I came across some new terminal emulators and shells such as Warp and Fig, but they were only available on Mac. They do introduce quite a bit of innovation to the ecosystem, so I was disappointed to learn they are not available on Linux. Interestingly, in one of the tech newsletters I subsribe to, a link appeared with "CLI tools you can't live without". Out of curiosity, and mostly to learn what other cross-platform tools exist, which fill in the funationality gaps between the tools mentioned above and my current shell, I clicked on the link. I was positively surprised by the innovation. 
+https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6
